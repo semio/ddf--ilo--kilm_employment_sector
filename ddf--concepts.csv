@@ -1,0 +1,13 @@
+concept,name,concept_type
+name,Name,string
+year,Year,time
+country,Country,entity_domain
+sex,Sex,entity_domain
+total_employment_000,Total employment ('000),measure
+agriculture_000,Agriculture ('000),measure
+agriculture,Agriculture (%),measure
+industry_000,Industry ('000),measure
+industry,Industry (%),measure
+services_000,Services ('000),measure
+services,Services (%),measure
+not_adequately_defined_000,Not adequately defined ('000),measure
