@@ -5,6 +5,7 @@ concept,concept_type,ddf--concepts.csv
 "country,sex,year",agriculture_000,ddf--datapoints--agriculture_000--by--country--sex--year.csv
 "country,sex,year",industry,ddf--datapoints--industry--by--country--sex--year.csv
 "country,sex,year",industry_000,ddf--datapoints--industry_000--by--country--sex--year.csv
+"country,sex,year",not_adequately_defined,ddf--datapoints--not_adequately_defined--by--country--sex--year.csv
 "country,sex,year",not_adequately_defined_000,ddf--datapoints--not_adequately_defined_000--by--country--sex--year.csv
 "country,sex,year",services,ddf--datapoints--services--by--country--sex--year.csv
 "country,sex,year",services_000,ddf--datapoints--services_000--by--country--sex--year.csv

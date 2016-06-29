@@ -11,3 +11,4 @@ industry,Industry (%),measure
 services_000,Services ('000),measure
 services,Services (%),measure
 not_adequately_defined_000,Not adequately defined ('000),measure
+not_adequately_defined,Not adequately defined (%),measure
