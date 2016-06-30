@@ -3,12 +3,12 @@ name,Name,string
 year,Year,time
 country,Country,entity_domain
 sex,Sex,entity_domain
-total_employment_000,Total employment ('000),measure
-agriculture_000,Agriculture ('000),measure
-agriculture,Agriculture (%),measure
-industry_000,Industry ('000),measure
-industry,Industry (%),measure
-services_000,Services ('000),measure
-services,Services (%),measure
-not_adequately_defined_000,Not adequately defined ('000),measure
-not_adequately_defined,Not adequately defined (%),measure
+total_employment_thousands,Total employment ('000),measure
+agriculture_thousands,Agriculture ('000),measure
+agriculture_percentage,Agriculture (%),measure
+industry_thousands,Industry ('000),measure
+industry_percentage,Industry (%),measure
+services_thousands,Services ('000),measure
+services_percentage,Services (%),measure
+not_adequately_defined_thousands,Not adequately defined ('000),measure
+not_adequately_defined_percentage,Not adequately defined (%),measure
